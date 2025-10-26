@@ -31,9 +31,9 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="../../public/jay-thummar-resume.pdf"
+                href="/jay-thummar-resume.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
-                download=".jay-thummar-resume.pdf"
+                download="jay-thummar-resume.pdf"
               >
                 Download CV
               </a>
