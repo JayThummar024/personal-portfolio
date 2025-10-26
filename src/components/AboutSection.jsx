@@ -74,11 +74,13 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Data Analysis</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile methodologies.
+                    Creating visually appealing and informative data visualizations to drive
+                    insights.
                   </p>
                 </div>
+                
               </div>
             </div>
           </div>
